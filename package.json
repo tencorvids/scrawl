@@ -2,7 +2,9 @@
     "name": "scrawl",
     "version": "0.1.0",
     "private": true,
-    "scripts": {},
+    "scripts": {
+        "seed": "tsx src/seed-sets.ts && tsx src/seed-symbols.ts && tsx src/scrawl.ts"
+    },
     "dependencies": {
         "fantasticon": "^3.0.0"
     },

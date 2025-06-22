@@ -1,0 +1,269 @@
+@font-face {
+    font-family: "scrawl-symbols";
+    src: url("./scrawl-symbols.woff2?79861288fe42049c3a643a5760c7c0bd") format("woff2"),
+url("./scrawl-symbols.woff?79861288fe42049c3a643a5760c7c0bd") format("woff");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: scrawl-symbols !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-0:before {
+    content: "\f101";
+}
+.icon-1:before {
+    content: "\f102";
+}
+.icon-2:before {
+    content: "\f103";
+}
+.icon-3:before {
+    content: "\f104";
+}
+.icon-4:before {
+    content: "\f105";
+}
+.icon-5:before {
+    content: "\f106";
+}
+.icon-6:before {
+    content: "\f107";
+}
+.icon-7:before {
+    content: "\f108";
+}
+.icon-8:before {
+    content: "\f109";
+}
+.icon-9:before {
+    content: "\f10a";
+}
+.icon-10:before {
+    content: "\f10b";
+}
+.icon-11:before {
+    content: "\f10c";
+}
+.icon-12:before {
+    content: "\f10d";
+}
+.icon-13:before {
+    content: "\f10e";
+}
+.icon-14:before {
+    content: "\f10f";
+}
+.icon-15:before {
+    content: "\f110";
+}
+.icon-16:before {
+    content: "\f111";
+}
+.icon-17:before {
+    content: "\f112";
+}
+.icon-18:before {
+    content: "\f113";
+}
+.icon-19:before {
+    content: "\f114";
+}
+.icon-20:before {
+    content: "\f115";
+}
+.icon-100:before {
+    content: "\f116";
+}
+.icon-1000000:before {
+    content: "\f117";
+}
+.icon-z:before {
+    content: "\f118";
+}
+.icon-y:before {
+    content: "\f119";
+}
+.icon-x:before {
+    content: "\f11a";
+}
+.icon-wup:before {
+    content: "\f11b";
+}
+.icon-wu:before {
+    content: "\f11c";
+}
+.icon-wp:before {
+    content: "\f11d";
+}
+.icon-wbp:before {
+    content: "\f11e";
+}
+.icon-wb:before {
+    content: "\f11f";
+}
+.icon-w:before {
+    content: "\f120";
+}
+.icon-urp:before {
+    content: "\f121";
+}
+.icon-ur:before {
+    content: "\f122";
+}
+.icon-up:before {
+    content: "\f123";
+}
+.icon-ubp:before {
+    content: "\f124";
+}
+.icon-ub:before {
+    content: "\f125";
+}
+.icon-u:before {
+    content: "\f126";
+}
+.icon-tk:before {
+    content: "\f127";
+}
+.icon-t:before {
+    content: "\f128";
+}
+.icon-s:before {
+    content: "\f129";
+}
+.icon-rwp:before {
+    content: "\f12a";
+}
+.icon-rw:before {
+    content: "\f12b";
+}
+.icon-rp:before {
+    content: "\f12c";
+}
+.icon-rgp:before {
+    content: "\f12d";
+}
+.icon-rg:before {
+    content: "\f12e";
+}
+.icon-r:before {
+    content: "\f12f";
+}
+.icon-q:before {
+    content: "\f130";
+}
+.icon-pw:before {
+    content: "\f131";
+}
+.icon-p:before {
+    content: "\f132";
+}
+.icon-l:before {
+    content: "\f133";
+}
+.icon-infinity:before {
+    content: "\f134";
+}
+.icon-hw:before {
+    content: "\f135";
+}
+.icon-hr:before {
+    content: "\f136";
+}
+.icon-half:before {
+    content: "\f137";
+}
+.icon-h:before {
+    content: "\f138";
+}
+.icon-gwp:before {
+    content: "\f139";
+}
+.icon-gw:before {
+    content: "\f13a";
+}
+.icon-gup:before {
+    content: "\f13b";
+}
+.icon-gu:before {
+    content: "\f13c";
+}
+.icon-gp:before {
+    content: "\f13d";
+}
+.icon-g:before {
+    content: "\f13e";
+}
+.icon-e:before {
+    content: "\f13f";
+}
+.icon-d:before {
+    content: "\f140";
+}
+.icon-cw:before {
+    content: "\f141";
+}
+.icon-cu:before {
+    content: "\f142";
+}
+.icon-cr:before {
+    content: "\f143";
+}
+.icon-cp:before {
+    content: "\f144";
+}
+.icon-chaos:before {
+    content: "\f145";
+}
+.icon-cg:before {
+    content: "\f146";
+}
+.icon-cb:before {
+    content: "\f147";
+}
+.icon-c:before {
+    content: "\f148";
+}
+.icon-brp:before {
+    content: "\f149";
+}
+.icon-br:before {
+    content: "\f14a";
+}
+.icon-bp:before {
+    content: "\f14b";
+}
+.icon-bgp:before {
+    content: "\f14c";
+}
+.icon-bg:before {
+    content: "\f14d";
+}
+.icon-b:before {
+    content: "\f14e";
+}
+.icon-a:before {
+    content: "\f14f";
+}
+.icon-2w:before {
+    content: "\f150";
+}
+.icon-2u:before {
+    content: "\f151";
+}
+.icon-2r:before {
+    content: "\f152";
+}
+.icon-2g:before {
+    content: "\f153";
+}
+.icon-2b:before {
+    content: "\f154";
+}

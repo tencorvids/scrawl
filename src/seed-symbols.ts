@@ -43,7 +43,7 @@ async function main() {
     for (const symbol of symbols) {
         const response = await fetch(symbol.svg_uri);
         const svg = await response.text();
-        fs.writeFileSync(path.join(symbolsDir, symbol.safe_symbol), svg);
+        fs.writeFileSync(path.join(symbolsDir, `${symbol.safe_symbol}.svg`), svg);
         console.log(`Saved ${symbol.safe_symbol}`);
 
         // good citizen

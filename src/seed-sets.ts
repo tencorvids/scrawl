@@ -16,7 +16,6 @@ async function fetchSets() {
       throw new Error(`HTTP error, status: ${response.status}`);
     }
 
-    console.log("Parsing API response...");
     const data = await response.json();
     if (data.object !== "list" || !Array.isArray(data.data)) {
       throw new Error("Unexpected API response format");
