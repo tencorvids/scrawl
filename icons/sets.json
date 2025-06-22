@@ -1,0 +1,4877 @@
+[
+  {
+    "name": "Avatar: The Last Airbender",
+    "code": "tla",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Marvel's Spider-Man Tokens",
+    "code": "tspm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Marvel's Spider-Man",
+    "code": "spm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Marvel Universe",
+    "code": "mar",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Marvel's Spider-Man Eternal",
+    "code": "spe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Edge of Eternities Commander",
+    "code": "eoc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Edge of Eternities",
+    "code": "eoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eoe.svg?1750046400"
+  },
+  {
+    "name": "Edge of Eternities: Stellar Sights",
+    "code": "eos",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Regional Promos",
+    "code": "rfin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Tokens",
+    "code": "tfin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Art Series",
+    "code": "afin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Commander",
+    "code": "fic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Commander Tokens",
+    "code": "tfic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fic.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy: Through the Ages",
+    "code": "fca",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fca.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy Promos",
+    "code": "pfin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1750046400"
+  },
+  {
+    "name": "Final Fantasy",
+    "code": "fin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fin.svg?1750046400"
+  },
+  {
+    "name": "FIN Standard Showdown",
+    "code": "pss5",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Tarkir",
+    "code": "ytdm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm Commander Tokens",
+    "code": "ttdc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdc.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm Tokens",
+    "code": "ttdm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm Art Series",
+    "code": "atdm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm Promos",
+    "code": "ptdm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm Commander",
+    "code": "tdc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdc.svg?1750046400"
+  },
+  {
+    "name": "Tarkir: Dragonstorm",
+    "code": "tdm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tdm.svg?1750046400"
+  },
+  {
+    "name": "Love Your LGS 2025",
+    "code": "plg25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Aetherdrift",
+    "code": "ydft",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1750046400"
+  },
+  {
+    "name": "Secret Lair Showcase Planes",
+    "code": "pssc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift Art Series",
+    "code": "adft",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift Promos",
+    "code": "pdft",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift Commander Tokens",
+    "code": "tdrc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drc.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift Commander",
+    "code": "drc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drc.svg?1750046400"
+  },
+  {
+    "name": "Year of the Snake 2025",
+    "code": "pl25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift",
+    "code": "dft",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1750046400"
+  },
+  {
+    "name": "Aetherdrift Tokens",
+    "code": "tdft",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dft.svg?1750046400"
+  },
+  {
+    "name": "Japan Standard Cup",
+    "code": "pjsc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "MagicFest 2025",
+    "code": "pf25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Innistrad Remastered Art Series",
+    "code": "ainr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inr.svg?1750046400"
+  },
+  {
+    "name": "Innistrad Remastered",
+    "code": "inr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inr.svg?1750046400"
+  },
+  {
+    "name": "Innistrad Remastered Tokens",
+    "code": "tinr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inr.svg?1750046400"
+  },
+  {
+    "name": "Spotlight Series",
+    "code": "pspl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2025",
+    "code": "pw25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Pioneer Masters",
+    "code": "pio",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pio.svg?1750046400"
+  },
+  {
+    "name": "Foundations Promos",
+    "code": "pfdn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1750046400"
+  },
+  {
+    "name": "Foundations Art Series",
+    "code": "afdn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1750046400"
+  },
+  {
+    "name": "Foundations Jumpstart Front Cards",
+    "code": "fj25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j25.svg?1750046400"
+  },
+  {
+    "name": "Foundations Front Cards",
+    "code": "ffdn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1750046400"
+  },
+  {
+    "name": "Foundations Commander",
+    "code": "fdc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdc.svg?1750046400"
+  },
+  {
+    "name": "Foundations Tokens",
+    "code": "tfdn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1750046400"
+  },
+  {
+    "name": "Foundations",
+    "code": "fdn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fdn.svg?1750046400"
+  },
+  {
+    "name": "Foundations Jumpstart",
+    "code": "j25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j25.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Deluxe Commander Kit",
+    "code": "pltc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Duskmourn",
+    "code": "ydsk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn: House of Horror",
+    "code": "dsk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn: House of Horror Tokens",
+    "code": "tdsk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn Commander Tokens",
+    "code": "tdsc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn: House of Horror Promos",
+    "code": "pdsk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn: House of Horror Commander",
+    "code": "dsc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsc.svg?1750046400"
+  },
+  {
+    "name": "Duskmourn: House of Horror Art Series",
+    "code": "adsk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dsk.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Bloomburrow",
+    "code": "yblb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y25.svg?1750046400"
+  },
+  {
+    "name": "Love Your LGS 2024",
+    "code": "plg24",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow Tokens",
+    "code": "tblb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow Art Series",
+    "code": "ablb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow Commander Tokens",
+    "code": "tblc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blc.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow Promos",
+    "code": "pblb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow",
+    "code": "blb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blb.svg?1750046400"
+  },
+  {
+    "name": "Bloomburrow Commander",
+    "code": "blc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/blc.svg?1750046400"
+  },
+  {
+    "name": "Mystery Booster 2",
+    "code": "mb2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mb2.svg?1750046400"
+  },
+  {
+    "name": "Cowboy Bebop",
+    "code": "pcbb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Assassin's Creed Minigames",
+    "code": "macr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1750046400"
+  },
+  {
+    "name": "Assassin's Creed",
+    "code": "acr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1750046400"
+  },
+  {
+    "name": "Assassin's Creed Art Series",
+    "code": "aacr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1750046400"
+  },
+  {
+    "name": "Assassin's Creed Tokens",
+    "code": "tacr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/acr.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Substitute Cards",
+    "code": "smh3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Promos",
+    "code": "pmh3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Commander",
+    "code": "m3c",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m3c.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Commander Tokens",
+    "code": "tm3c",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m3c.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Tokens",
+    "code": "tmh3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3 Art Series",
+    "code": "amh3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 3",
+    "code": "mh3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh3.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2 Timeshifts",
+    "code": "h2r",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Outlaws of Thunder Junction",
+    "code": "yotj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction Promos",
+    "code": "potj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction Tokens",
+    "code": "totj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction Art Series",
+    "code": "aotj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1750046400"
+  },
+  {
+    "name": "Breaking News Tokens",
+    "code": "totp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otp.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction Commander Tokens",
+    "code": "totc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otc.svg?1750046400"
+  },
+  {
+    "name": "Breaking News",
+    "code": "otp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otp.svg?1750046400"
+  },
+  {
+    "name": "The Big Score",
+    "code": "big",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1750046400"
+  },
+  {
+    "name": "The Big Score Tokens",
+    "code": "tbig",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/big.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction",
+    "code": "otj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otj.svg?1750046400"
+  },
+  {
+    "name": "Outlaws of Thunder Junction Commander",
+    "code": "otc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/otc.svg?1750046400"
+  },
+  {
+    "name": "Fallout",
+    "code": "pip",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1750046400"
+  },
+  {
+    "name": "Fallout Tokens",
+    "code": "tpip",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pip.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Murders at Karlov Manor ",
+    "code": "ymkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1750046400"
+  },
+  {
+    "name": "Ravnica: Clue Edition Front Cards",
+    "code": "fclu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1750046400"
+  },
+  {
+    "name": "Ravnica: Clue Edition",
+    "code": "clu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clu.svg?1750046400"
+  },
+  {
+    "name": "MKM Standard Showdown",
+    "code": "pss4",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor Commander Tokens",
+    "code": "tmkc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkc.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor Promos",
+    "code": "pmkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor Art Series",
+    "code": "amkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor Tokens",
+    "code": "tmkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor Commander",
+    "code": "mkc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkc.svg?1750046400"
+  },
+  {
+    "name": "Murders at Karlov Manor",
+    "code": "mkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mkm.svg?1750046400"
+  },
+  {
+    "name": "MKM Japanese Promo Tokens",
+    "code": "wmkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Year of the Dragon 2024",
+    "code": "pl24",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Ravnica Remastered Tokens",
+    "code": "trvr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rvr.svg?1750046400"
+  },
+  {
+    "name": "Ravnica Remastered",
+    "code": "rvr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rvr.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2024",
+    "code": "pw24",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "MagicFest 2024",
+    "code": "pf24",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Ixalan",
+    "code": "ylci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1750046400"
+  },
+  {
+    "name": "Special Guests",
+    "code": "spg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/spg.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Promos",
+    "code": "plci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Art Series",
+    "code": "alci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Tokens",
+    "code": "tlci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Substitute Cards",
+    "code": "slci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Commander",
+    "code": "lcc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lcc.svg?1750046400"
+  },
+  {
+    "name": "Jurassic World Collection Tokens",
+    "code": "trex",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rex.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan",
+    "code": "lci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lci.svg?1750046400"
+  },
+  {
+    "name": "The Lost Caverns of Ixalan Commander Tokens",
+    "code": "tlcc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lcc.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine: The Aftermath Promos",
+    "code": "pmat",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1750046400"
+  },
+  {
+    "name": "Jurassic World Collection",
+    "code": "rex",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rex.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Scene Box",
+    "code": "altc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1750046400"
+  },
+  {
+    "name": "Doctor Who",
+    "code": "who",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/who.svg?1750046400"
+  },
+  {
+    "name": "Doctor Who Tokens",
+    "code": "twho",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/who.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Wilds of Eldraine",
+    "code": "ywoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y24.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine Promos",
+    "code": "pwoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine Commander",
+    "code": "woc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woc.svg?1750046400"
+  },
+  {
+    "name": "WOE Japanese Promo Tokens",
+    "code": "wwoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine Art Series",
+    "code": "awoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine Commander Tokens",
+    "code": "twoc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woc.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine: Enchanting Tales",
+    "code": "wot",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wot.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine Tokens",
+    "code": "twoe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1750046400"
+  },
+  {
+    "name": "Wilds of Eldraine",
+    "code": "woe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/woe.svg?1750046400"
+  },
+  {
+    "name": "Magic × Duel Masters Promos",
+    "code": "pmda",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral Remastered Promos",
+    "code": "ptsr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary Celebration Tokyo",
+    "code": "p30t",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Commander Masters Art Series",
+    "code": "acmm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmm.svg?1750046400"
+  },
+  {
+    "name": "Commander Masters Tokens",
+    "code": "tcmm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmm.svg?1750046400"
+  },
+  {
+    "name": "Commander Masters",
+    "code": "cmm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmm.svg?1750046400"
+  },
+  {
+    "name": "2022 Heroes of the Realm",
+    "code": "ph22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Explorer Anthology 3",
+    "code": "ea3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 7",
+    "code": "ha7",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "MagicFest 2023",
+    "code": "pf23",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Promos",
+    "code": "pltr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Commander",
+    "code": "ltc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1750046400"
+  },
+  {
+    "name": "The Lord of the Rings: Tales of Middle-earth",
+    "code": "ltr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Tokens",
+    "code": "tltr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Commander Tokens",
+    "code": "tltc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltc.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Art Series",
+    "code": "altr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1750046400"
+  },
+  {
+    "name": "Tales of Middle-earth Front Cards",
+    "code": "fltr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ltr.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine: The Aftermath",
+    "code": "mat",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mat.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Jumpstart Front Cards",
+    "code": "fmom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Commander Tokens",
+    "code": "tmoc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1750046400"
+  },
+  {
+    "name": "Multiverse Legends",
+    "code": "mul",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mul.svg?1750046400"
+  },
+  {
+    "name": "MOM Japanese Promo Tokens",
+    "code": "wmom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Substitute Cards",
+    "code": "smom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Promos",
+    "code": "pmom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine",
+    "code": "mom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Art Series",
+    "code": "amom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "Multiverse Legends Tokens",
+    "code": "tmul",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mul.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Tokens",
+    "code": "tmom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mom.svg?1750046400"
+  },
+  {
+    "name": "March of the Machine Commander",
+    "code": "moc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/moc.svg?1750046400"
+  },
+  {
+    "name": "Shadows of the Past",
+    "code": "sis",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sis.svg?1750046400"
+  },
+  {
+    "name": "Shadows over Innistrad Remastered",
+    "code": "sir",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sir.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Phyrexia",
+    "code": "yone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1750046400"
+  },
+  {
+    "name": "Secret Lair Showdown",
+    "code": "slp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Unknown Event",
+    "code": "unk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1750046400"
+  },
+  {
+    "name": "Year of the Rabbit 2023",
+    "code": "pl23",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Promos",
+    "code": "pone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Commander Tokens",
+    "code": "tonc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/onc.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Tokens",
+    "code": "tone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Commander",
+    "code": "onc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/onc.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Jumpstart Front Cards",
+    "code": "fone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One",
+    "code": "one",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Minigames",
+    "code": "mone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Phyrexia: All Will Be One Art Series",
+    "code": "aone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "ONE Japanese Promo Tokens",
+    "code": "wone",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/one.svg?1750046400"
+  },
+  {
+    "name": "Dominaria Remastered",
+    "code": "dmr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmr.svg?1750046400"
+  },
+  {
+    "name": "Dominaria Remastered Tokens",
+    "code": "tdmr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmr.svg?1750046400"
+  },
+  {
+    "name": "Regional Championship Qualifiers 2023",
+    "code": "pr23",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2023",
+    "code": "pw23",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2023",
+    "code": "p23",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: The Brothers' War",
+    "code": "ybro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1750046400"
+  },
+  {
+    "name": "Explorer Anthology 2",
+    "code": "ea2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Starter Commander Deck Tokens",
+    "code": "tscd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1750046400"
+  },
+  {
+    "name": "Starter Commander Decks",
+    "code": "scd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scd.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart 2022 Front Cards",
+    "code": "fj22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j22.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart 2022",
+    "code": "j22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j22.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary Edition",
+    "code": "30a",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/30a.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary Tokens",
+    "code": "t30a",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/30a.svg?1750046400"
+  },
+  {
+    "name": "Eternal Weekend",
+    "code": "pewk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Commander",
+    "code": "brc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/brc.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Retro Artifacts",
+    "code": "brr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/brr.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Promos",
+    "code": "pbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "Transformers Tokens",
+    "code": "tbot",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bot.svg?1750046400"
+  },
+  {
+    "name": "Transformers",
+    "code": "bot",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bot.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Southeast Asia Tokens",
+    "code": "ptbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War",
+    "code": "bro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Tokens",
+    "code": "tbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Jumpstart Front Cards",
+    "code": "fbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Commander Tokens",
+    "code": "tbrc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/brc.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Art Series",
+    "code": "abro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Minigames",
+    "code": "mbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "The Brothers' War Substitute Cards",
+    "code": "sbro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bro.svg?1750046400"
+  },
+  {
+    "name": "Secret Lair 30th Anniversary Countdown Kit",
+    "code": "slc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Game Night: Free-for-All Tokens",
+    "code": "tgn3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gn3.svg?1750046400"
+  },
+  {
+    "name": "Game Night: Free-for-All",
+    "code": "gn3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gn3.svg?1750046400"
+  },
+  {
+    "name": "The List (Unfinity Foil Edition)",
+    "code": "ulst",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1750046400"
+  },
+  {
+    "name": "Unfinity",
+    "code": "unf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/unf.svg?1750046400"
+  },
+  {
+    "name": "Unfinity Tokens",
+    "code": "tunf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/unf.svg?1750046400"
+  },
+  {
+    "name": "Unfinity Sticker Sheets",
+    "code": "sunf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/unf.svg?1750046400"
+  },
+  {
+    "name": "Warhammer 40,000 Commander",
+    "code": "40k",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1750046400"
+  },
+  {
+    "name": "Warhammer 40,000 Tokens",
+    "code": "t40k",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/40k.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Dominaria",
+    "code": "ydmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y23.svg?1750046400"
+  },
+  {
+    "name": "Regional Championship Qualifiers 2022",
+    "code": "prcq",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary History Promos",
+    "code": "p30h",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Promos",
+    "code": "pdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Southeast Asia Tokens",
+    "code": "ptdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "DMU Japanese Promo Tokens",
+    "code": "wdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Minigames",
+    "code": "mdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Commander",
+    "code": "dmc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmc.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Art Series",
+    "code": "admu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United",
+    "code": "dmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Jumpstart Front Cards",
+    "code": "fdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Commander Tokens",
+    "code": "tdmc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmc.svg?1750046400"
+  },
+  {
+    "name": "Dominaria United Tokens",
+    "code": "tdmu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dmu.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary Play Promos",
+    "code": "p30a",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "30th Anniversary Misc Promos",
+    "code": "p30m",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "2021 Heroes of the Realm",
+    "code": "ph21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Summer Vacation Promos 2022",
+    "code": "psvc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Explorer Anthology 1",
+    "code": "ea1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 6",
+    "code": "ha6",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Store Championships",
+    "code": "sch",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Double Masters 2022 Tokens",
+    "code": "t2x2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2x2.svg?1750046400"
+  },
+  {
+    "name": "Double Masters 2022",
+    "code": "2x2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2x2.svg?1750046400"
+  },
+  {
+    "name": "Alchemy Horizons: Baldur's Gate",
+    "code": "hbg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hbg.svg?1750046400"
+  },
+  {
+    "name": "Love Your LGS 2022",
+    "code": "plg22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Battle for Baldur's Gate Promos",
+    "code": "pclb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1750046400"
+  },
+  {
+    "name": "Commander Legends: Battle for Baldur's Gate Minigames",
+    "code": "mclb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1750046400"
+  },
+  {
+    "name": "Battle for Baldur's Gate Art Series",
+    "code": "aclb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1750046400"
+  },
+  {
+    "name": "Commander Legends: Battle for Baldur's Gate",
+    "code": "clb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1750046400"
+  },
+  {
+    "name": "Battle for Baldur's Gate Tokens",
+    "code": "tclb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/clb.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: New Capenna",
+    "code": "ysnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1750046400"
+  },
+  {
+    "name": "Streets of New Capenna Southeast Asia Tokens",
+    "code": "ptsnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "New Capenna Commander Promos",
+    "code": "pncc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1750046400"
+  },
+  {
+    "name": "Streets of New Capenna Tokens",
+    "code": "tsnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "Streets of New Capenna",
+    "code": "snc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "New Capenna Commander",
+    "code": "ncc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1750046400"
+  },
+  {
+    "name": "New Capenna Commander Tokens",
+    "code": "tncc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ncc.svg?1750046400"
+  },
+  {
+    "name": "Streets of New Capenna Promos",
+    "code": "psnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "Streets of New Capenna Minigames",
+    "code": "msnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "New Capenna Art Series",
+    "code": "asnc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/snc.svg?1750046400"
+  },
+  {
+    "name": "Game Day Promos",
+    "code": "gdy",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Challenger Decks 2022",
+    "code": "q07",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Kamigawa",
+    "code": "yneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2022",
+    "code": "pw22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Universes Within",
+    "code": "slx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Year of the Tiger 2022",
+    "code": "pl22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Kamigawa: Neon Dynasty Promos",
+    "code": "pneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Kamigawa: Neon Dynasty Minigames",
+    "code": "mneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Kamigawa: Neon Dynasty Substitute Cards",
+    "code": "sneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Kamigawa: Neon Dynasty",
+    "code": "neo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Kamigawa: Neon Dynasty Tokens",
+    "code": "tneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Neon Dynasty Commander Tokens",
+    "code": "tnec",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1750046400"
+  },
+  {
+    "name": "Neon Dynasty Commander",
+    "code": "nec",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nec.svg?1750046400"
+  },
+  {
+    "name": "Neon Dynasty Art Series",
+    "code": "aneo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/neo.svg?1750046400"
+  },
+  {
+    "name": "Commander Collection: Black",
+    "code": "cc2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cc2.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Double Feature",
+    "code": "dbl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2022",
+    "code": "p22",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1750046400"
+  },
+  {
+    "name": "Alchemy: Innistrad",
+    "code": "ymid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/y22.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Crimson Vow Promos",
+    "code": "pvow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Crimson Vow Commander Tokens",
+    "code": "tvoc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1750046400"
+  },
+  {
+    "name": "Crimson Vow Commander Display Commanders",
+    "code": "ovoc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Crimson Vow Tokens",
+    "code": "tvow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Crimson Vow Minigames",
+    "code": "mvow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Crimson Vow Substitute Cards",
+    "code": "svow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Crimson Vow",
+    "code": "vow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Crimson Vow Commander",
+    "code": "voc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/voc.svg?1750046400"
+  },
+  {
+    "name": "Crimson Vow Art Series",
+    "code": "avow",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vow.svg?1750046400"
+  },
+  {
+    "name": "Pioneer Challenger Decks 2021",
+    "code": "q06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Midnight Hunt Substitute Cards",
+    "code": "smid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Midnight Hunt Tokens",
+    "code": "tmid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Midnight Hunt Commander",
+    "code": "mic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1750046400"
+  },
+  {
+    "name": "Midnight Hunt Commander Display Commanders",
+    "code": "omic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1750046400"
+  },
+  {
+    "name": "Midnight Hunt Commander Tokens",
+    "code": "tmic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mic.svg?1750046400"
+  },
+  {
+    "name": "Midnight Hunt Art Series",
+    "code": "amid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Midnight Hunt Promos",
+    "code": "pmid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Midnight Hunt Minigames",
+    "code": "mmid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Innistrad: Midnight Hunt",
+    "code": "mid",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mid.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart: Historic Horizons",
+    "code": "j21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/j21.svg?1750046400"
+  },
+  {
+    "name": "Mystery Booster Playtest Cards 2021",
+    "code": "cmb2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1750046400"
+  },
+  {
+    "name": "2020 Heroes of the Realm",
+    "code": "ph20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Adventures in the Forgotten Realms Promos",
+    "code": "pafr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1750046400"
+  },
+  {
+    "name": "Forgotten Realms Commander Display Commanders",
+    "code": "oafc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1750046400"
+  },
+  {
+    "name": "Adventures in the Forgotten Realms Art Series",
+    "code": "aafr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1750046400"
+  },
+  {
+    "name": "Forgotten Realms Commander",
+    "code": "afc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1750046400"
+  },
+  {
+    "name": "Forgotten Realms Commander Tokens",
+    "code": "tafc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afc.svg?1750046400"
+  },
+  {
+    "name": "Adventures in the Forgotten Realms Tokens",
+    "code": "tafr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1750046400"
+  },
+  {
+    "name": "Adventures in the Forgotten Realms Minigames",
+    "code": "mafr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1750046400"
+  },
+  {
+    "name": "Adventures in the Forgotten Realms",
+    "code": "afr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/afr.svg?1750046400"
+  },
+  {
+    "name": "Love Your LGS 2021",
+    "code": "plg21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2 Minigames",
+    "code": "mmh2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2 Art Series",
+    "code": "amh2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2 Tokens",
+    "code": "tmh2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2 Promos",
+    "code": "pmh2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 2",
+    "code": "mh2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons 1 Timeshifts",
+    "code": "h1r",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2021",
+    "code": "pw21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 5",
+    "code": "ha5",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven: School of Mages Promos",
+    "code": "pstx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven: School of Mages Tokens",
+    "code": "tstx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Commander 2021 Tokens",
+    "code": "tc21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven: School of Mages Substitute Cards",
+    "code": "sstx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven: School of Mages Minigames",
+    "code": "mstx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven: School of Mages",
+    "code": "stx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Commander 2021",
+    "code": "c21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1750046400"
+  },
+  {
+    "name": "Commander 2021 Display Commanders",
+    "code": "oc21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c21.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven Mystical Archive",
+    "code": "sta",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sta.svg?1750046400"
+  },
+  {
+    "name": "Strixhaven Art Series",
+    "code": "astx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/stx.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral Remastered Tokens",
+    "code": "ttsr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral Remastered",
+    "code": "tsr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsr.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 4",
+    "code": "ha4",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Promos",
+    "code": "pkhm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Minigames",
+    "code": "mkhm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Substitute Cards",
+    "code": "skhm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim",
+    "code": "khm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Art Series",
+    "code": "akhm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Commander Tokens",
+    "code": "tkhc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khc.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Tokens",
+    "code": "tkhm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khm.svg?1750046400"
+  },
+  {
+    "name": "Kaldheim Commander",
+    "code": "khc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/khc.svg?1750046400"
+  },
+  {
+    "name": "Year of the Ox 2021",
+    "code": "pl21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2021",
+    "code": "pj21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1750046400"
+  },
+  {
+    "name": "Commander Collection: Green",
+    "code": "cc1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cc1.svg?1750046400"
+  },
+  {
+    "name": "Commander Legends",
+    "code": "cmr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1750046400"
+  },
+  {
+    "name": "Commander Legends Promos",
+    "code": "pcmr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1750046400"
+  },
+  {
+    "name": "Commander Legends Tokens",
+    "code": "tcmr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmr.svg?1750046400"
+  },
+  {
+    "name": "Kaladesh Remastered",
+    "code": "klr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/klr.svg?1750046400"
+  },
+  {
+    "name": "The List",
+    "code": "plst",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Promos",
+    "code": "pznr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Commander Tokens",
+    "code": "tznc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znc.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Substitute Cards",
+    "code": "sznr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Tokens",
+    "code": "tznr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Minigames",
+    "code": "mznr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Commander",
+    "code": "znc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znc.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising",
+    "code": "znr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Art Series",
+    "code": "aznr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/znr.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Rising Expeditions",
+    "code": "zne",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/zne.svg?1750046400"
+  },
+  {
+    "name": "Arena Beginner Set",
+    "code": "anb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Amonkhet Remastered",
+    "code": "akr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/akr.svg?1750046400"
+  },
+  {
+    "name": "Double Masters",
+    "code": "2xm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2xm.svg?1750046400"
+  },
+  {
+    "name": "Double Masters Tokens",
+    "code": "t2xm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2xm.svg?1750046400"
+  },
+  {
+    "name": "2019 Heroes of the Realm",
+    "code": "ph19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart Arena Exclusives",
+    "code": "ajmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart",
+    "code": "jmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2021 Promos",
+    "code": "pm21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2021 Tokens",
+    "code": "tm21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2021",
+    "code": "m21",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m21.svg?1750046400"
+  },
+  {
+    "name": "Signature Spellbook: Chandra",
+    "code": "ss3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ss3.svg?1750046400"
+  },
+  {
+    "name": "Jumpstart Front Cards",
+    "code": "fjmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jmp.svg?1750046400"
+  },
+  {
+    "name": "Secret Lair: Ultimate Edition",
+    "code": "slu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 3",
+    "code": "ha3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Love Your LGS 2020",
+    "code": "plg20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Ikoria: Lair of Behemoths Promos",
+    "code": "piko",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1750046400"
+  },
+  {
+    "name": "Ikoria: Lair of Behemoths",
+    "code": "iko",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1750046400"
+  },
+  {
+    "name": "Ikoria: Lair of Behemoths Tokens",
+    "code": "tiko",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/iko.svg?1750046400"
+  },
+  {
+    "name": "Commander 2020 Oversized",
+    "code": "oc20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1750046400"
+  },
+  {
+    "name": "Commander 2020 Tokens",
+    "code": "tc20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1750046400"
+  },
+  {
+    "name": "Commander 2020",
+    "code": "c20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c20.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 2",
+    "code": "ha2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Unsanctioned Tokens",
+    "code": "tund",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/und.svg?1750046400"
+  },
+  {
+    "name": "Unsanctioned",
+    "code": "und",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/und.svg?1750046400"
+  },
+  {
+    "name": "Theros Beyond Death Promos",
+    "code": "pthb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1750046400"
+  },
+  {
+    "name": "Theros Beyond Death Tokens",
+    "code": "tthb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1750046400"
+  },
+  {
+    "name": "Theros Beyond Death",
+    "code": "thb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/thb.svg?1750046400"
+  },
+  {
+    "name": "MagicFest 2020",
+    "code": "pf20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2020",
+    "code": "j20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/archie.svg?1750046400"
+  },
+  {
+    "name": "Secret Lair Drop",
+    "code": "sld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Historic Anthology 1",
+    "code": "ha1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ha1.svg?1750046400"
+  },
+  {
+    "name": "Game Night 2019 Tokens",
+    "code": "tgn2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gn2.svg?1750046400"
+  },
+  {
+    "name": "Game Night 2019",
+    "code": "gn2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gn2.svg?1750046400"
+  },
+  {
+    "name": "Mystery Booster Playtest Cards 2019",
+    "code": "cmb1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/planeswalker.svg?1750046400"
+  },
+  {
+    "name": "Ponies: The Galloping",
+    "code": "ptg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ptg.svg?1750046400"
+  },
+  {
+    "name": "Throne of Eldraine Promos",
+    "code": "peld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1750046400"
+  },
+  {
+    "name": "Throne of Eldraine Tokens",
+    "code": "teld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1750046400"
+  },
+  {
+    "name": "Throne of Eldraine",
+    "code": "eld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eld.svg?1750046400"
+  },
+  {
+    "name": "Planeswalker Championship Promos",
+    "code": "pwcs",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Commander 2019 Oversized",
+    "code": "oc19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1750046400"
+  },
+  {
+    "name": "Commander 2019",
+    "code": "c19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1750046400"
+  },
+  {
+    "name": "Commander 2019 Tokens",
+    "code": "tc19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c19.svg?1750046400"
+  },
+  {
+    "name": "2018 Heroes of the Realm",
+    "code": "ph18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2019",
+    "code": "ps19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2020 Tokens",
+    "code": "tm20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2020 Promos",
+    "code": "pm20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1750046400"
+  },
+  {
+    "name": "M20 Promo Packs",
+    "code": "ppp1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2020",
+    "code": "m20",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m20.svg?1750046400"
+  },
+  {
+    "name": "Signature Spellbook: Gideon",
+    "code": "ss2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ss2.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons Promos",
+    "code": "pmh1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons",
+    "code": "mh1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons Art Series",
+    "code": "amh1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1750046400"
+  },
+  {
+    "name": "Modern Horizons Tokens",
+    "code": "tmh1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mh1.svg?1750046400"
+  },
+  {
+    "name": "War of the Spark Promos",
+    "code": "pwar",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1750046400"
+  },
+  {
+    "name": "War of the Spark Tokens",
+    "code": "twar",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1750046400"
+  },
+  {
+    "name": "War of the Spark",
+    "code": "war",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/war.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2019",
+    "code": "j19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "RNA Ravnica Weekend",
+    "code": "prw2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "RNA Guild Kit Tokens",
+    "code": "tgk2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "RNA Guild Kit",
+    "code": "gk2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "Ravnica Allegiance Promos",
+    "code": "prna",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "Ravnica Allegiance",
+    "code": "rna",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "Ravnica Allegiance Tokens",
+    "code": "trna",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rna.svg?1750046400"
+  },
+  {
+    "name": "MagicFest 2019",
+    "code": "pf19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Planechase Anthology Planes",
+    "code": "opca",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pca.svg?1750046400"
+  },
+  {
+    "name": "Ultimate Box Topper",
+    "code": "puma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uma.svg?1750046400"
+  },
+  {
+    "name": "Ultimate Masters Tokens",
+    "code": "tuma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uma.svg?1750046400"
+  },
+  {
+    "name": "Ultimate Masters",
+    "code": "uma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uma.svg?1750046400"
+  },
+  {
+    "name": "M19 Gift Pack",
+    "code": "g18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1750046400"
+  },
+  {
+    "name": "Game Night",
+    "code": "gnt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gnt.svg?1750046400"
+  },
+  {
+    "name": "GRN Ravnica Weekend",
+    "code": "prwk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "GRN Guild Kit Tokens",
+    "code": "tgk1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "GRN Guild Kit",
+    "code": "gk1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "Guilds of Ravnica Tokens",
+    "code": "tgrn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "Guilds of Ravnica Promos",
+    "code": "pgrn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "Guilds of Ravnica",
+    "code": "grn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/grn.svg?1750046400"
+  },
+  {
+    "name": "Mythic Edition",
+    "code": "med",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/med.svg?1750046400"
+  },
+  {
+    "name": "Mythic Edition Tokens",
+    "code": "tmed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/med.svg?1750046400"
+  },
+  {
+    "name": "Commander 2018 Oversized",
+    "code": "oc18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1750046400"
+  },
+  {
+    "name": "Commander 2018",
+    "code": "c18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1750046400"
+  },
+  {
+    "name": "Commander 2018 Tokens",
+    "code": "tc18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c18.svg?1750046400"
+  },
+  {
+    "name": "2017 Heroes of the Realm",
+    "code": "ph17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2018",
+    "code": "ps18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Arena New Player Experience Extras",
+    "code": "xana",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Arena New Player Experience",
+    "code": "ana",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "MTG Arena Promos",
+    "code": "pana",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Arena New Player Experience Cards",
+    "code": "oana",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtga.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2019 Promos",
+    "code": "pm19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2019 Tokens",
+    "code": "tm19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1750046400"
+  },
+  {
+    "name": "M19 Standard Showdown",
+    "code": "pss3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Core Set 2019",
+    "code": "m19",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m19.svg?1750046400"
+  },
+  {
+    "name": "Global Series Jiang Yanggu & Mu Yanling",
+    "code": "gs1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gs1.svg?1750046400"
+  },
+  {
+    "name": "Signature Spellbook: Jace",
+    "code": "ss1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ss1.svg?1750046400"
+  },
+  {
+    "name": "Battlebond Promos",
+    "code": "pbbd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1750046400"
+  },
+  {
+    "name": "Battlebond Tokens",
+    "code": "tbbd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1750046400"
+  },
+  {
+    "name": "Battlebond",
+    "code": "bbd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bbd.svg?1750046400"
+  },
+  {
+    "name": "Commander Anthology Volume II Tokens",
+    "code": "tcm2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm2.svg?1750046400"
+  },
+  {
+    "name": "Commander Anthology Volume II",
+    "code": "cm2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm2.svg?1750046400"
+  },
+  {
+    "name": "Dominaria Promos",
+    "code": "pdom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1750046400"
+  },
+  {
+    "name": "Dominaria",
+    "code": "dom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1750046400"
+  },
+  {
+    "name": "Dominaria Tokens",
+    "code": "tdom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dom.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elves vs. Inventors Tokens",
+    "code": "tddu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddu.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elves vs. Inventors",
+    "code": "ddu",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddu.svg?1750046400"
+  },
+  {
+    "name": "Masters 25",
+    "code": "a25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/a25.svg?1750046400"
+  },
+  {
+    "name": "Masters 25 Tokens",
+    "code": "ta25",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/a25.svg?1750046400"
+  },
+  {
+    "name": "Lunar New Year 2018",
+    "code": "plny",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Nationals Promos",
+    "code": "pnat",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Rivals of Ixalan Tokens",
+    "code": "trix",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1750046400"
+  },
+  {
+    "name": "Rivals of Ixalan Promos",
+    "code": "prix",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1750046400"
+  },
+  {
+    "name": "Rivals of Ixalan",
+    "code": "rix",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rix.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2018",
+    "code": "j18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2018",
+    "code": "f18",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Unstable Promos",
+    "code": "pust",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1750046400"
+  },
+  {
+    "name": "Unstable Tokens",
+    "code": "tust",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1750046400"
+  },
+  {
+    "name": "Unstable",
+    "code": "ust",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ust.svg?1750046400"
+  },
+  {
+    "name": "Iconic Masters Tokens",
+    "code": "tima",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ima.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Transform",
+    "code": "v17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v17.svg?1750046400"
+  },
+  {
+    "name": "XLN Treasure Chest",
+    "code": "pxtc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1750046400"
+  },
+  {
+    "name": "Explorers of Ixalan",
+    "code": "e02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/e02.svg?1750046400"
+  },
+  {
+    "name": "Iconic Masters",
+    "code": "ima",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ima.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Merfolk vs. Goblins",
+    "code": "ddt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddt.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Merfolk vs. Goblins Tokens",
+    "code": "tddt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddt.svg?1750046400"
+  },
+  {
+    "name": "2017 Gift Pack",
+    "code": "g17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Ixalan Promos",
+    "code": "pxln",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1750046400"
+  },
+  {
+    "name": "Ixalan",
+    "code": "xln",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1750046400"
+  },
+  {
+    "name": "Ixalan Tokens",
+    "code": "txln",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/xln.svg?1750046400"
+  },
+  {
+    "name": "XLN Standard Showdown",
+    "code": "pss2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "HasCon 2017",
+    "code": "h17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/h17.svg?1750046400"
+  },
+  {
+    "name": "2016 Heroes of the Realm",
+    "code": "phtr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Archenemy: Nicol Bolas Tokens",
+    "code": "te01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/e01.svg?1750046400"
+  },
+  {
+    "name": "Commander 2017 Oversized",
+    "code": "oc17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c17.svg?1750046400"
+  },
+  {
+    "name": "Commander 2017 Tokens",
+    "code": "tc17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c17.svg?1750046400"
+  },
+  {
+    "name": "Commander 2017",
+    "code": "c17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c17.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2017",
+    "code": "ps17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Hour of Devastation Promos",
+    "code": "phou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hou.svg?1750046400"
+  },
+  {
+    "name": "Hour of Devastation",
+    "code": "hou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hou.svg?1750046400"
+  },
+  {
+    "name": "Hour of Devastation Tokens",
+    "code": "thou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hou.svg?1750046400"
+  },
+  {
+    "name": "Archenemy: Nicol Bolas Schemes",
+    "code": "oe01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/e01.svg?1750046400"
+  },
+  {
+    "name": "Archenemy: Nicol Bolas",
+    "code": "e01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/e01.svg?1750046400"
+  },
+  {
+    "name": "Commander Anthology Tokens",
+    "code": "tcma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cma.svg?1750046400"
+  },
+  {
+    "name": "Commander Anthology",
+    "code": "cma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cma.svg?1750046400"
+  },
+  {
+    "name": "Amonkhet Promos",
+    "code": "pakh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/akh.svg?1750046400"
+  },
+  {
+    "name": "Amonkhet Tokens",
+    "code": "takh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/akh.svg?1750046400"
+  },
+  {
+    "name": "Amonkhet Invocations",
+    "code": "mp2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mp2.svg?1750046400"
+  },
+  {
+    "name": "Amonkhet",
+    "code": "akh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/akh.svg?1750046400"
+  },
+  {
+    "name": "Welcome Deck 2017",
+    "code": "w17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/w17.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Mind vs. Might",
+    "code": "dds",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dds.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Mind vs. Might Tokens",
+    "code": "tdds",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dds.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters 2017 Tokens",
+    "code": "tmm3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mm3.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters 2017",
+    "code": "mm3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mm3.svg?1750046400"
+  },
+  {
+    "name": "Aether Revolt Promos",
+    "code": "paer",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/aer.svg?1750046400"
+  },
+  {
+    "name": "Aether Revolt Tokens",
+    "code": "taer",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/aer.svg?1750046400"
+  },
+  {
+    "name": "Aether Revolt",
+    "code": "aer",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/aer.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2017",
+    "code": "l17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2017",
+    "code": "j17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2017",
+    "code": "f17",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Planechase Anthology Tokens",
+    "code": "tpca",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pca.svg?1750046400"
+  },
+  {
+    "name": "Planechase Anthology",
+    "code": "pca",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pca.svg?1750046400"
+  },
+  {
+    "name": "Treasure Chest",
+    "code": "pz2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pz2.svg?1750046400"
+  },
+  {
+    "name": "Commander 2016 Oversized",
+    "code": "oc16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c16.svg?1750046400"
+  },
+  {
+    "name": "Commander 2016",
+    "code": "c16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c16.svg?1750046400"
+  },
+  {
+    "name": "Commander 2016 Tokens",
+    "code": "tc16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c16.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2016",
+    "code": "ps16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Kaladesh Promos",
+    "code": "pkld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/kld.svg?1750046400"
+  },
+  {
+    "name": "Kaladesh",
+    "code": "kld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/kld.svg?1750046400"
+  },
+  {
+    "name": "Kaladesh Tokens",
+    "code": "tkld",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/kld.svg?1750046400"
+  },
+  {
+    "name": "Kaladesh Inventions",
+    "code": "mps",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mps.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Nissa vs. Ob Nixilis",
+    "code": "ddr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddr.svg?1750046400"
+  },
+  {
+    "name": "Conspiracy: Take the Crown",
+    "code": "cn2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cn2.svg?1750046400"
+  },
+  {
+    "name": "Conspiracy: Take the Crown Tokens",
+    "code": "tcn2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cn2.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Lore",
+    "code": "v16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v16.svg?1750046400"
+  },
+  {
+    "name": "Eldritch Moon Promos",
+    "code": "pemn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/emn.svg?1750046400"
+  },
+  {
+    "name": "Eldritch Moon Tokens",
+    "code": "temn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/emn.svg?1750046400"
+  },
+  {
+    "name": "Eldritch Moon",
+    "code": "emn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/emn.svg?1750046400"
+  },
+  {
+    "name": "Eternal Masters",
+    "code": "ema",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ema.svg?1750046400"
+  },
+  {
+    "name": "Eternal Masters Tokens",
+    "code": "tema",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ema.svg?1750046400"
+  },
+  {
+    "name": "Shadows over Innistrad Promos",
+    "code": "psoi",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/soi.svg?1750046400"
+  },
+  {
+    "name": "Shadows over Innistrad Tokens",
+    "code": "tsoi",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/soi.svg?1750046400"
+  },
+  {
+    "name": "Shadows over Innistrad",
+    "code": "soi",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/soi.svg?1750046400"
+  },
+  {
+    "name": "Welcome Deck 2016",
+    "code": "w16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/w16.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Blessed vs. Cursed",
+    "code": "ddq",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddq.svg?1750046400"
+  },
+  {
+    "name": "Oath of the Gatewatch",
+    "code": "ogw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ogw.svg?1750046400"
+  },
+  {
+    "name": "Oath of the Gatewatch Tokens",
+    "code": "togw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ogw.svg?1750046400"
+  },
+  {
+    "name": "Oath of the Gatewatch Promos",
+    "code": "pogw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ogw.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2016",
+    "code": "l16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2016",
+    "code": "j16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2016",
+    "code": "f16",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Legendary Cube Prize Pack",
+    "code": "pz1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pz1.svg?1750046400"
+  },
+  {
+    "name": "Commander 2015 Tokens",
+    "code": "tc15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c15.svg?1750046400"
+  },
+  {
+    "name": "Commander 2015 Oversized",
+    "code": "oc15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c15.svg?1750046400"
+  },
+  {
+    "name": "Commander 2015",
+    "code": "c15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c15.svg?1750046400"
+  },
+  {
+    "name": "Battle for Zendikar Tokens",
+    "code": "tbfz",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1750046400"
+  },
+  {
+    "name": "Battle for Zendikar Promos",
+    "code": "pbfz",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1750046400"
+  },
+  {
+    "name": "BFZ Standard Series",
+    "code": "pss1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Expeditions",
+    "code": "exp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/exp.svg?1750046400"
+  },
+  {
+    "name": "Battle for Zendikar",
+    "code": "bfz",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bfz.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Zendikar vs. Eldrazi",
+    "code": "ddp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddp.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Angels",
+    "code": "v15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v15.svg?1750046400"
+  },
+  {
+    "name": "Magic Origins Clash Pack",
+    "code": "cp3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Magic Origins Promos",
+    "code": "pori",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1750046400"
+  },
+  {
+    "name": "Magic Origins Tokens",
+    "code": "tori",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1750046400"
+  },
+  {
+    "name": "Magic Origins",
+    "code": "ori",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2015",
+    "code": "ps15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ori.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters 2015 Tokens",
+    "code": "tmm2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mm2.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters 2015",
+    "code": "mm2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mm2.svg?1750046400"
+  },
+  {
+    "name": "Tempest Remastered",
+    "code": "tpr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tpr.svg?1750046400"
+  },
+  {
+    "name": "Tarkir Dragonfury",
+    "code": "ptkdf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1750046400"
+  },
+  {
+    "name": "Dragons of Tarkir Promos",
+    "code": "pdtk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1750046400"
+  },
+  {
+    "name": "Dragons of Tarkir",
+    "code": "dtk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1750046400"
+  },
+  {
+    "name": "Dragons of Tarkir Tokens",
+    "code": "tdtk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dtk.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elspeth vs. Kiora",
+    "code": "ddo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddo.svg?1750046400"
+  },
+  {
+    "name": "Fate Reforged Promos",
+    "code": "pfrf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1750046400"
+  },
+  {
+    "name": "Fate Reforged Clash Pack",
+    "code": "cp2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Fate Reforged",
+    "code": "frf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1750046400"
+  },
+  {
+    "name": "Fate Reforged Tokens",
+    "code": "tfrf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1750046400"
+  },
+  {
+    "name": "Ugin's Fate",
+    "code": "ugin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/frf.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2015",
+    "code": "l15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2015",
+    "code": "j15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2015",
+    "code": "f15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Jace vs. Chandra Tokens",
+    "code": "tjvc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd2.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Divine vs. Demonic Tokens",
+    "code": "tdvd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddc.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Garruk vs. Liliana Tokens",
+    "code": "tgvl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddd.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Garruk vs. Liliana",
+    "code": "gvl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddd.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Elves vs. Goblins Tokens",
+    "code": "tevg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd1.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Jace vs. Chandra",
+    "code": "jvc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd2.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Divine vs. Demonic",
+    "code": "dvd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddc.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks Anthology: Elves vs. Goblins",
+    "code": "evg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd1.svg?1750046400"
+  },
+  {
+    "name": "Commander 2014 Oversized",
+    "code": "oc14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c14.svg?1750046400"
+  },
+  {
+    "name": "Commander 2014",
+    "code": "c14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c14.svg?1750046400"
+  },
+  {
+    "name": "Commander 2014 Tokens",
+    "code": "tc14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c14.svg?1750046400"
+  },
+  {
+    "name": "Khans of Tarkir Promos",
+    "code": "pktk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ktk.svg?1750046400"
+  },
+  {
+    "name": "Khans of Tarkir",
+    "code": "ktk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ktk.svg?1750046400"
+  },
+  {
+    "name": "Khans of Tarkir Tokens",
+    "code": "tktk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ktk.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Speed vs. Cunning",
+    "code": "ddn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddn.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Annihilation",
+    "code": "v14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v14.svg?1750046400"
+  },
+  {
+    "name": "Magic 2015 Tokens",
+    "code": "tm15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1750046400"
+  },
+  {
+    "name": "Magic 2015 Clash Pack",
+    "code": "cp1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Magic 2015",
+    "code": "m15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1750046400"
+  },
+  {
+    "name": "Magic 2015 Promos",
+    "code": "pm15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1750046400"
+  },
+  {
+    "name": "M15 Prerelease Challenge",
+    "code": "ppc1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2015 Promos",
+    "code": "pdp15",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m15.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2014",
+    "code": "ps14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Vintage Masters",
+    "code": "vma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vma.svg?1750046400"
+  },
+  {
+    "name": "Conspiracy Promos",
+    "code": "pcns",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cns.svg?1750046400"
+  },
+  {
+    "name": "Conspiracy Tokens",
+    "code": "tcns",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cns.svg?1750046400"
+  },
+  {
+    "name": "Conspiracy",
+    "code": "cns",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cns.svg?1750046400"
+  },
+  {
+    "name": "Modern Event Deck 2014 Tokens",
+    "code": "tmd1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/md1.svg?1750046400"
+  },
+  {
+    "name": "Modern Event Deck 2014",
+    "code": "md1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/md1.svg?1750046400"
+  },
+  {
+    "name": "Defeat a God",
+    "code": "tdag",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1750046400"
+  },
+  {
+    "name": "Journey into Nyx Hero's Path",
+    "code": "thp3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1750046400"
+  },
+  {
+    "name": "Journey into Nyx",
+    "code": "jou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1750046400"
+  },
+  {
+    "name": "Journey into Nyx Tokens",
+    "code": "tjou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1750046400"
+  },
+  {
+    "name": "Journey into Nyx Promos",
+    "code": "pjou",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jou.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Jace vs. Vraska",
+    "code": "ddm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddm.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Jace vs. Vraska Tokens",
+    "code": "tddm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddm.svg?1750046400"
+  },
+  {
+    "name": "Battle the Horde",
+    "code": "tbth",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1750046400"
+  },
+  {
+    "name": "Born of the Gods",
+    "code": "bng",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1750046400"
+  },
+  {
+    "name": "Born of the Gods Tokens",
+    "code": "tbng",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1750046400"
+  },
+  {
+    "name": "Born of the Gods Hero's Path",
+    "code": "thp2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1750046400"
+  },
+  {
+    "name": "Born of the Gods Promos",
+    "code": "pbng",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bng.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2014",
+    "code": "l14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2014",
+    "code": "j14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2014",
+    "code": "f14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Commander 2013 Oversized",
+    "code": "oc13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c13.svg?1750046400"
+  },
+  {
+    "name": "Commander 2013",
+    "code": "c13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/c13.svg?1750046400"
+  },
+  {
+    "name": "Face the Hydra",
+    "code": "tfth",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1750046400"
+  },
+  {
+    "name": "Theros Hero's Path",
+    "code": "thp1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1750046400"
+  },
+  {
+    "name": "Theros Tokens",
+    "code": "tths",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1750046400"
+  },
+  {
+    "name": "Theros",
+    "code": "ths",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1750046400"
+  },
+  {
+    "name": "Theros Promos",
+    "code": "pths",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ths.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Heroes vs. Monsters Tokens",
+    "code": "tddl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddl.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Heroes vs. Monsters",
+    "code": "ddl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddl.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Twenty",
+    "code": "v13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v13.svg?1750046400"
+  },
+  {
+    "name": "Magic 2014 Tokens",
+    "code": "tm14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1750046400"
+  },
+  {
+    "name": "Magic 2014",
+    "code": "m14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1750046400"
+  },
+  {
+    "name": "Magic 2014 Promos",
+    "code": "pm14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1750046400"
+  },
+  {
+    "name": "San Diego Comic-Con 2013",
+    "code": "psdc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters Tokens",
+    "code": "tmma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mma.svg?1750046400"
+  },
+  {
+    "name": "Modern Masters",
+    "code": "mma",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mma.svg?1750046400"
+  },
+  {
+    "name": "Dragon's Maze",
+    "code": "dgm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dgm.svg?1750046400"
+  },
+  {
+    "name": "Dragon's Maze Tokens",
+    "code": "tdgm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dgm.svg?1750046400"
+  },
+  {
+    "name": "Dragon's Maze Promos",
+    "code": "pdgm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dgm.svg?1750046400"
+  },
+  {
+    "name": "World Magic Cup Qualifiers",
+    "code": "wmc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Sorin vs. Tibalt Tokens",
+    "code": "tddk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddk.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Sorin vs. Tibalt",
+    "code": "ddk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddk.svg?1750046400"
+  },
+  {
+    "name": "Gatecrash",
+    "code": "gtc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gtc.svg?1750046400"
+  },
+  {
+    "name": "Gatecrash Tokens",
+    "code": "tgtc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gtc.svg?1750046400"
+  },
+  {
+    "name": "Gatecrash Promos",
+    "code": "pgtc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gtc.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2014 Promos",
+    "code": "pdp14",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m14.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2013",
+    "code": "l13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2013",
+    "code": "f13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2013",
+    "code": "j13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Commander's Arsenal Oversized",
+    "code": "ocm1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm1.svg?1750046400"
+  },
+  {
+    "name": "Commander's Arsenal",
+    "code": "cm1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cm1.svg?1750046400"
+  },
+  {
+    "name": "Return to Ravnica",
+    "code": "rtr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rtr.svg?1750046400"
+  },
+  {
+    "name": "Return to Ravnica Promos",
+    "code": "prtr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rtr.svg?1750046400"
+  },
+  {
+    "name": "Return to Ravnica Tokens",
+    "code": "trtr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rtr.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Izzet vs. Golgari",
+    "code": "ddj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddj.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Izzet vs. Golgari Tokens",
+    "code": "tddj",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddj.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Realms",
+    "code": "v12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v12.svg?1750046400"
+  },
+  {
+    "name": "Magic 2013",
+    "code": "m13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1750046400"
+  },
+  {
+    "name": "Magic 2013 Tokens",
+    "code": "tm13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1750046400"
+  },
+  {
+    "name": "Magic 2013 Promos",
+    "code": "pm13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1750046400"
+  },
+  {
+    "name": "Planechase 2012 Planes",
+    "code": "opc2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pc2.svg?1750046400"
+  },
+  {
+    "name": "Planechase 2012",
+    "code": "pc2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pc2.svg?1750046400"
+  },
+  {
+    "name": "Avacyn Restored",
+    "code": "avr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1750046400"
+  },
+  {
+    "name": "Avacyn Restored Tokens",
+    "code": "tavr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1750046400"
+  },
+  {
+    "name": "Open the Helvault",
+    "code": "phel",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1750046400"
+  },
+  {
+    "name": "Avacyn Restored Promos",
+    "code": "pavr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/avr.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Venser vs. Koth",
+    "code": "ddi",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddi.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Venser vs. Koth Tokens",
+    "code": "tddi",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddi.svg?1750046400"
+  },
+  {
+    "name": "Dark Ascension Tokens",
+    "code": "tdka",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dka.svg?1750046400"
+  },
+  {
+    "name": "Dark Ascension",
+    "code": "dka",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dka.svg?1750046400"
+  },
+  {
+    "name": "Dark Ascension Promos",
+    "code": "pdka",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dka.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2012",
+    "code": "pw12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "IDW Comics Inserts",
+    "code": "pidw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pidw.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2013 Promos",
+    "code": "pdp13",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m13.svg?1750046400"
+  },
+  {
+    "name": "League Tokens 2012",
+    "code": "l12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2012",
+    "code": "j12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2012",
+    "code": "f12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Premium Deck Series: Graveborn",
+    "code": "pd3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pd3.svg?1750046400"
+  },
+  {
+    "name": "Innistrad Tokens",
+    "code": "tisd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/isd.svg?1750046400"
+  },
+  {
+    "name": "Innistrad",
+    "code": "isd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/isd.svg?1750046400"
+  },
+  {
+    "name": "Innistrad Promos",
+    "code": "pisd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/isd.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Ajani vs. Nicol Bolas",
+    "code": "ddh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddh.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Ajani vs. Nicol Bolas Tokens",
+    "code": "tddh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddh.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Legends",
+    "code": "v11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v11.svg?1750046400"
+  },
+  {
+    "name": "Magic 2012",
+    "code": "m12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m12.svg?1750046400"
+  },
+  {
+    "name": "Magic 2012 Tokens",
+    "code": "tm12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m12.svg?1750046400"
+  },
+  {
+    "name": "Magic 2012 Promos",
+    "code": "pm12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m12.svg?1750046400"
+  },
+  {
+    "name": "Commander 2011 Oversized",
+    "code": "ocmd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmd.svg?1750046400"
+  },
+  {
+    "name": "Commander 2011 Launch Party",
+    "code": "pcmd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmd.svg?1750046400"
+  },
+  {
+    "name": "Commander 2011",
+    "code": "cmd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cmd.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
+    "code": "td2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/td2.svg?1750046400"
+  },
+  {
+    "name": "New Phyrexia",
+    "code": "nph",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nph.svg?1750046400"
+  },
+  {
+    "name": "New Phyrexia Tokens",
+    "code": "tnph",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nph.svg?1750046400"
+  },
+  {
+    "name": "New Phyrexia Promos",
+    "code": "pnph",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nph.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Knights vs. Dragons Tokens",
+    "code": "tddg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddg.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Knights vs. Dragons",
+    "code": "ddg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddg.svg?1750046400"
+  },
+  {
+    "name": "Mirrodin Besieged",
+    "code": "mbs",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mbs.svg?1750046400"
+  },
+  {
+    "name": "Mirrodin Besieged Tokens",
+    "code": "tmbs",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mbs.svg?1750046400"
+  },
+  {
+    "name": "Mirrodin Besieged Promos",
+    "code": "pmbs",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mbs.svg?1750046400"
+  },
+  {
+    "name": "Masters Edition IV",
+    "code": "me4",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/me4.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2011",
+    "code": "pmps11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmps.svg?1750046400"
+  },
+  {
+    "name": "Wizards Play Network 2011",
+    "code": "pw11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2012 Promos",
+    "code": "pdp12",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmtg2.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2011",
+    "code": "g11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2011",
+    "code": "f11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2011",
+    "code": "p11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Salvat 2011",
+    "code": "ps11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/psal.svg?1750046400"
+  },
+  {
+    "name": "Legacy Championship",
+    "code": "olgc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmei.svg?1750046400"
+  },
+  {
+    "name": "Premium Deck Series: Fire and Lightning",
+    "code": "pd2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pd2.svg?1750046400"
+  },
+  {
+    "name": "Magic Online Theme Decks",
+    "code": "td0",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/td0.svg?1750046400"
+  },
+  {
+    "name": "Scars of Mirrodin",
+    "code": "som",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/som.svg?1750046400"
+  },
+  {
+    "name": "Scars of Mirrodin Tokens",
+    "code": "tsom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/som.svg?1750046400"
+  },
+  {
+    "name": "Scars of Mirrodin Promos",
+    "code": "psom",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/som.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elspeth vs. Tezzeret Tokens",
+    "code": "tddf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddf.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elspeth vs. Tezzeret",
+    "code": "ddf",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddf.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Relics",
+    "code": "v10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v10.svg?1750046400"
+  },
+  {
+    "name": "Magic 2011 Tokens",
+    "code": "tm11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m11.svg?1750046400"
+  },
+  {
+    "name": "Magic 2011",
+    "code": "m11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m11.svg?1750046400"
+  },
+  {
+    "name": "Magic 2011 Promos",
+    "code": "pm11",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m11.svg?1750046400"
+  },
+  {
+    "name": "Archenemy Schemes",
+    "code": "oarc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arc.svg?1750046400"
+  },
+  {
+    "name": "Archenemy",
+    "code": "arc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arc.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers",
+    "code": "dpa",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dpa.svg?1750046400"
+  },
+  {
+    "name": "Rise of the Eldrazi Promos",
+    "code": "proe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/roe.svg?1750046400"
+  },
+  {
+    "name": "Rise of the Eldrazi",
+    "code": "roe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/roe.svg?1750046400"
+  },
+  {
+    "name": "Rise of the Eldrazi Tokens",
+    "code": "troe",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/roe.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Phyrexia vs. the Coalition",
+    "code": "dde",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dde.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Phyrexia vs. the Coalition Tokens",
+    "code": "tdde",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dde.svg?1750046400"
+  },
+  {
+    "name": "Worldwake Promos",
+    "code": "pwwk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wwk.svg?1750046400"
+  },
+  {
+    "name": "Worldwake Tokens",
+    "code": "twwk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wwk.svg?1750046400"
+  },
+  {
+    "name": "Worldwake",
+    "code": "wwk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wwk.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2010 Promos",
+    "code": "pdp10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmtg2.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2010",
+    "code": "pmps10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmps.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2010",
+    "code": "f10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2010",
+    "code": "g10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2010",
+    "code": "p10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Premium Deck Series: Slivers",
+    "code": "h09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/h09.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Garruk vs. Liliana",
+    "code": "ddd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddd.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Garruk vs. Liliana Tokens",
+    "code": "tddd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddd.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Promos",
+    "code": "pzen",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/zen.svg?1750046400"
+  },
+  {
+    "name": "Zendikar",
+    "code": "zen",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/zen.svg?1750046400"
+  },
+  {
+    "name": "Zendikar Tokens",
+    "code": "tzen",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/zen.svg?1750046400"
+  },
+  {
+    "name": "Masters Edition III",
+    "code": "me3",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/me3.svg?1750046400"
+  },
+  {
+    "name": "Planechase Planes",
+    "code": "ohop",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hop.svg?1750046400"
+  },
+  {
+    "name": "Planechase",
+    "code": "hop",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hop.svg?1750046400"
+  },
+  {
+    "name": "Planechase Promos",
+    "code": "phop",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Exiled",
+    "code": "v09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/v09.svg?1750046400"
+  },
+  {
+    "name": "Magic 2010",
+    "code": "m10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m10.svg?1750046400"
+  },
+  {
+    "name": "Magic 2010 Tokens",
+    "code": "tm10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m10.svg?1750046400"
+  },
+  {
+    "name": "Magic 2010 Promos",
+    "code": "pm10",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/m10.svg?1750046400"
+  },
+  {
+    "name": "Alara Reborn Promos",
+    "code": "parb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arb.svg?1750046400"
+  },
+  {
+    "name": "Alara Reborn",
+    "code": "arb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arb.svg?1750046400"
+  },
+  {
+    "name": "Alara Reborn Tokens",
+    "code": "tarb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arb.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Divine vs. Demonic",
+    "code": "ddc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddc.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Divine vs. Demonic Tokens",
+    "code": "tddc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ddc.svg?1750046400"
+  },
+  {
+    "name": "URL/Convention Promos",
+    "code": "purl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Conflux Promos",
+    "code": "pcon",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/con.svg?1750046400"
+  },
+  {
+    "name": "Conflux",
+    "code": "con",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/con.svg?1750046400"
+  },
+  {
+    "name": "Conflux Tokens",
+    "code": "tcon",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/con.svg?1750046400"
+  },
+  {
+    "name": "Duels of the Planeswalkers 2009 Promos",
+    "code": "pdtp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pxbox.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2009",
+    "code": "pmps09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmps.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2009",
+    "code": "g09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2009",
+    "code": "f09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2009",
+    "code": "p09",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Jace vs. Chandra",
+    "code": "dd2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd2.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Jace vs. Chandra Tokens",
+    "code": "tdd2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd2.svg?1750046400"
+  },
+  {
+    "name": "Shards of Alara Promos",
+    "code": "pala",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ala.svg?1750046400"
+  },
+  {
+    "name": "Shards of Alara Tokens",
+    "code": "tala",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ala.svg?1750046400"
+  },
+  {
+    "name": "Shards of Alara",
+    "code": "ala",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ala.svg?1750046400"
+  },
+  {
+    "name": "Masters Edition II",
+    "code": "me2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/me2.svg?1750046400"
+  },
+  {
+    "name": "From the Vault: Dragons",
+    "code": "drb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drb.svg?1750046400"
+  },
+  {
+    "name": "Eventide Promos",
+    "code": "peve",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eve.svg?1750046400"
+  },
+  {
+    "name": "Eventide",
+    "code": "eve",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eve.svg?1750046400"
+  },
+  {
+    "name": "Eventide Tokens",
+    "code": "teve",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/eve.svg?1750046400"
+  },
+  {
+    "name": "Shadowmoor Promos",
+    "code": "pshm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/shm.svg?1750046400"
+  },
+  {
+    "name": "Shadowmoor",
+    "code": "shm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/shm.svg?1750046400"
+  },
+  {
+    "name": "Shadowmoor Tokens",
+    "code": "tshm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/shm.svg?1750046400"
+  },
+  {
+    "name": "15th Anniversary Cards",
+    "code": "p15a",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Morningtide Promos",
+    "code": "pmor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mor.svg?1750046400"
+  },
+  {
+    "name": "Morningtide",
+    "code": "mor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mor.svg?1750046400"
+  },
+  {
+    "name": "Morningtide Tokens",
+    "code": "tmor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mor.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2008",
+    "code": "pmps08",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmps.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2008",
+    "code": "f08",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2008",
+    "code": "g08",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2008",
+    "code": "p08",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elves vs. Goblins",
+    "code": "dd1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd1.svg?1750046400"
+  },
+  {
+    "name": "Duel Decks: Elves vs. Goblins Tokens",
+    "code": "tdd1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dd1.svg?1750046400"
+  },
+  {
+    "name": "Lorwyn Promos",
+    "code": "plrw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lrw.svg?1750046400"
+  },
+  {
+    "name": "Lorwyn Tokens",
+    "code": "tlrw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lrw.svg?1750046400"
+  },
+  {
+    "name": "Lorwyn",
+    "code": "lrw",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lrw.svg?1750046400"
+  },
+  {
+    "name": "Masters Edition",
+    "code": "me1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/me1.svg?1750046400"
+  },
+  {
+    "name": "Tenth Edition",
+    "code": "10e",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/10e.svg?1750046400"
+  },
+  {
+    "name": "Tenth Edition Promos",
+    "code": "p10e",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/10e.svg?1750046400"
+  },
+  {
+    "name": "Tenth Edition Tokens",
+    "code": "t10e",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/10e.svg?1750046400"
+  },
+  {
+    "name": "Future Sight Promos",
+    "code": "pfut",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fut.svg?1750046400"
+  },
+  {
+    "name": "Future Sight",
+    "code": "fut",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fut.svg?1750046400"
+  },
+  {
+    "name": "Grand Prix Promos",
+    "code": "pgpx",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Pro Tour Promos",
+    "code": "ppro",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Planar Chaos Promos",
+    "code": "pplc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/plc.svg?1750046400"
+  },
+  {
+    "name": "Planar Chaos",
+    "code": "plc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/plc.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2007",
+    "code": "p07",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2007",
+    "code": "pmps07",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmps.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2007",
+    "code": "g07",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2007",
+    "code": "f07",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Happy Holidays",
+    "code": "hho",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral Promos",
+    "code": "ptsp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral",
+    "code": "tsp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1750046400"
+  },
+  {
+    "name": "Time Spiral Timeshifted",
+    "code": "tsb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tsp.svg?1750046400"
+  },
+  {
+    "name": "Coldsnap Promos",
+    "code": "pcsp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/csp.svg?1750046400"
+  },
+  {
+    "name": "Coldsnap",
+    "code": "csp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/csp.svg?1750046400"
+  },
+  {
+    "name": "Coldsnap Theme Decks",
+    "code": "cst",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/csp.svg?1750046400"
+  },
+  {
+    "name": "Dissension Promos",
+    "code": "pdis",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dis.svg?1750046400"
+  },
+  {
+    "name": "Dissension",
+    "code": "dis",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dis.svg?1750046400"
+  },
+  {
+    "name": "Champs and States",
+    "code": "pcmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Guildpact Promos",
+    "code": "pgpt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gpt.svg?1750046400"
+  },
+  {
+    "name": "Guildpact",
+    "code": "gpt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/gpt.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2006",
+    "code": "pmps06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmtg2.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2006",
+    "code": "pal06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "Junior APAC Series",
+    "code": "pjas",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "DCI Promos",
+    "code": "dci",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Hachette UK",
+    "code": "phuk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/phuk.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2006",
+    "code": "p06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2006",
+    "code": "f06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2006",
+    "code": "g06",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Two-Headed Giant Tournament",
+    "code": "p2hg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Premiere Shop 2005",
+    "code": "pmps",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rav.svg?1750046400"
+  },
+  {
+    "name": "Ravnica: City of Guilds Promos",
+    "code": "prav",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rav.svg?1750046400"
+  },
+  {
+    "name": "Ravnica: City of Guilds",
+    "code": "rav",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rav.svg?1750046400"
+  },
+  {
+    "name": "Salvat 2005",
+    "code": "psal",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/phuk.svg?1750046400"
+  },
+  {
+    "name": "Ninth Edition Promos",
+    "code": "p9ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/9ed.svg?1750046400"
+  },
+  {
+    "name": "Ninth Edition",
+    "code": "9ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/9ed.svg?1750046400"
+  },
+  {
+    "name": "Saviors of Kamigawa Promos",
+    "code": "psok",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sok.svg?1750046400"
+  },
+  {
+    "name": "Saviors of Kamigawa",
+    "code": "sok",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sok.svg?1750046400"
+  },
+  {
+    "name": "Betrayers of Kamigawa Promos",
+    "code": "pbok",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bok.svg?1750046400"
+  },
+  {
+    "name": "Betrayers of Kamigawa",
+    "code": "bok",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/bok.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2005",
+    "code": "pal05",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "Junior Series Europe",
+    "code": "pjse",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2005",
+    "code": "p05",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2005",
+    "code": "g05",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2005",
+    "code": "f05",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Unhinged Promos",
+    "code": "punh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/unh.svg?1750046400"
+  },
+  {
+    "name": "Unhinged",
+    "code": "unh",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/unh.svg?1750046400"
+  },
+  {
+    "name": "Champions of Kamigawa Promos",
+    "code": "pchk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/chk.svg?1750046400"
+  },
+  {
+    "name": "Champions of Kamigawa",
+    "code": "chk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/chk.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 2004",
+    "code": "wc04",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Mirrodin Promos",
+    "code": "pmrd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mrd.svg?1750046400"
+  },
+  {
+    "name": "Fifth Dawn Promos",
+    "code": "p5dn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/5dn.svg?1750046400"
+  },
+  {
+    "name": "Fifth Dawn",
+    "code": "5dn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/5dn.svg?1750046400"
+  },
+  {
+    "name": "Darksteel Promos",
+    "code": "pdst",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dst.svg?1750046400"
+  },
+  {
+    "name": "Darksteel",
+    "code": "dst",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dst.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2004",
+    "code": "pal04",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2004",
+    "code": "g04",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2004",
+    "code": "p04",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2004",
+    "code": "f04",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Mirrodin",
+    "code": "mrd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mrd.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 2003",
+    "code": "wc03",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Eighth Edition Promos",
+    "code": "p8ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/8ed.svg?1750046400"
+  },
+  {
+    "name": "Eighth Edition",
+    "code": "8ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/8ed.svg?1750046400"
+  },
+  {
+    "name": "Scourge Promos",
+    "code": "pscg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scg.svg?1750046400"
+  },
+  {
+    "name": "Scourge",
+    "code": "scg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/scg.svg?1750046400"
+  },
+  {
+    "name": "Legions Promos",
+    "code": "plgn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lgn.svg?1750046400"
+  },
+  {
+    "name": "Legions",
+    "code": "lgn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lgn.svg?1750046400"
+  },
+  {
+    "name": "Magic Online Avatars",
+    "code": "pmoa",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtgo.svg?1750046400"
+  },
+  {
+    "name": "Japan Junior Tournament",
+    "code": "pjjt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2003",
+    "code": "pal03",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2003",
+    "code": "f03",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Vintage Championship",
+    "code": "ovnt",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmei.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2003",
+    "code": "p03",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2003",
+    "code": "g03",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Onslaught",
+    "code": "ons",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ons.svg?1750046400"
+  },
+  {
+    "name": "Onslaught Promos",
+    "code": "pons",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ons.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 2002",
+    "code": "wc02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Hobby Japan Promos",
+    "code": "jp1",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Magic Online Promos",
+    "code": "prm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mtgo.svg?1750046400"
+  },
+  {
+    "name": "Judgment Promos",
+    "code": "pjud",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jud.svg?1750046400"
+  },
+  {
+    "name": "Judgment",
+    "code": "jud",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/jud.svg?1750046400"
+  },
+  {
+    "name": "Torment Promos",
+    "code": "ptor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tor.svg?1750046400"
+  },
+  {
+    "name": "Torment",
+    "code": "tor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tor.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2002",
+    "code": "pal02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2002",
+    "code": "pr2",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2002",
+    "code": "f02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2002",
+    "code": "g02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Deckmasters",
+    "code": "dkm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dkm.svg?1750046400"
+  },
+  {
+    "name": "Odyssey Promos",
+    "code": "pody",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ody.svg?1750046400"
+  },
+  {
+    "name": "Odyssey",
+    "code": "ody",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ody.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 2001",
+    "code": "wc01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Sega Dreamcast Cards",
+    "code": "psdg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/psdg.svg?1750046400"
+  },
+  {
+    "name": "Apocalypse Promos",
+    "code": "papc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/apc.svg?1750046400"
+  },
+  {
+    "name": "Apocalypse",
+    "code": "apc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/apc.svg?1750046400"
+  },
+  {
+    "name": "Seventh Edition",
+    "code": "7ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/7ed.svg?1750046400"
+  },
+  {
+    "name": "Planeshift Promos",
+    "code": "ppls",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pls.svg?1750046400"
+  },
+  {
+    "name": "Planeshift",
+    "code": "pls",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pls.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2001",
+    "code": "pal01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl2.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2001",
+    "code": "f01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2001",
+    "code": "g01",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Magic Player Rewards 2001",
+    "code": "mpr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Invasion Promos",
+    "code": "pinv",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inv.svg?1750046400"
+  },
+  {
+    "name": "Invasion",
+    "code": "inv",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/inv.svg?1750046400"
+  },
+  {
+    "name": "Beatdown Box Set",
+    "code": "btd",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/btd.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 2000",
+    "code": "wc00",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Prophecy Promos",
+    "code": "ppcy",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pcy.svg?1750046400"
+  },
+  {
+    "name": "Prophecy",
+    "code": "pcy",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pcy.svg?1750046400"
+  },
+  {
+    "name": "Starter 2000",
+    "code": "s00",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/s00.svg?1750046400"
+  },
+  {
+    "name": "Nemesis Promos",
+    "code": "pnem",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nem.svg?1750046400"
+  },
+  {
+    "name": "Nemesis",
+    "code": "nem",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/nem.svg?1750046400"
+  },
+  {
+    "name": "European Land Program",
+    "code": "pelp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/peuro.svg?1750046400"
+  },
+  {
+    "name": "Arena League 2000",
+    "code": "pal00",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl2.svg?1750046400"
+  },
+  {
+    "name": "Friday Night Magic 2000",
+    "code": "fnm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 2000",
+    "code": "g00",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Junior Super Series",
+    "code": "psus",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/dci.svg?1750046400"
+  },
+  {
+    "name": "Battle Royale Box Set",
+    "code": "brb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/brb.svg?1750046400"
+  },
+  {
+    "name": "Mercadian Masques Promos",
+    "code": "pmmq",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mmq.svg?1750046400"
+  },
+  {
+    "name": "Mercadian Masques",
+    "code": "mmq",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mmq.svg?1750046400"
+  },
+  {
+    "name": "Wizards of the Coast Online Store",
+    "code": "pwos",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "World Championship Promos",
+    "code": "pwor",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 1999",
+    "code": "wc99",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Guru",
+    "code": "pgru",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pgru.svg?1750046400"
+  },
+  {
+    "name": "Starter 1999",
+    "code": "s99",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/s99.svg?1750046400"
+  },
+  {
+    "name": "Urza's Destiny Promos",
+    "code": "puds",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uds.svg?1750046400"
+  },
+  {
+    "name": "Urza's Destiny",
+    "code": "uds",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/uds.svg?1750046400"
+  },
+  {
+    "name": "Portal: Three Kingdoms Promos",
+    "code": "pptk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ptk.svg?1750046400"
+  },
+  {
+    "name": "Portal Three Kingdoms",
+    "code": "ptk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ptk.svg?1750046400"
+  },
+  {
+    "name": "Classic Sixth Edition",
+    "code": "6ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/6ed.svg?1750046400"
+  },
+  {
+    "name": "Urza's Legacy Promos",
+    "code": "pulg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ulg.svg?1750046400"
+  },
+  {
+    "name": "Urza's Legacy",
+    "code": "ulg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ulg.svg?1750046400"
+  },
+  {
+    "name": "Arena League 1999",
+    "code": "pal99",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/usg.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 1999",
+    "code": "g99",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Anthologies",
+    "code": "ath",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ath.svg?1750046400"
+  },
+  {
+    "name": "Urza's Saga Promos",
+    "code": "pusg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/usg.svg?1750046400"
+  },
+  {
+    "name": "Urza's Saga",
+    "code": "usg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/usg.svg?1750046400"
+  },
+  {
+    "name": "Asia Pacific Land Program",
+    "code": "palp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/papac.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 1998",
+    "code": "wc98",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Unglued Tokens",
+    "code": "tugl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Unglued",
+    "code": "ugl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ugl.svg?1750046400"
+  },
+  {
+    "name": "Portal Second Age",
+    "code": "p02",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/p02.svg?1750046400"
+  },
+  {
+    "name": "Exodus Promos",
+    "code": "pexo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/exo.svg?1750046400"
+  },
+  {
+    "name": "Exodus",
+    "code": "exo",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/exo.svg?1750046400"
+  },
+  {
+    "name": "Stronghold Promos",
+    "code": "psth",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sth.svg?1750046400"
+  },
+  {
+    "name": "Stronghold",
+    "code": "sth",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/sth.svg?1750046400"
+  },
+  {
+    "name": "Judge Gift Cards 1998",
+    "code": "jgp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Tempest Promos",
+    "code": "ptmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tmp.svg?1750046400"
+  },
+  {
+    "name": "Tempest",
+    "code": "tmp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/tmp.svg?1750046400"
+  },
+  {
+    "name": "World Championship Decks 1997",
+    "code": "wc97",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Weatherlight",
+    "code": "wth",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/wth.svg?1750046400"
+  },
+  {
+    "name": "Oversized League Prizes",
+    "code": "olep",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Portal",
+    "code": "por",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/por.svg?1750046400"
+  },
+  {
+    "name": "Vanguard Series",
+    "code": "pvan",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/van.svg?1750046400"
+  },
+  {
+    "name": "MicroProse Promos",
+    "code": "pmic",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/past.svg?1750046400"
+  },
+  {
+    "name": "Astral Cards",
+    "code": "past",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/past.svg?1750046400"
+  },
+  {
+    "name": "Fifth Edition",
+    "code": "5ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/5ed.svg?1750046400"
+  },
+  {
+    "name": "Visions",
+    "code": "vis",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vis.svg?1750046400"
+  },
+  {
+    "name": "Introductory Two-Player Set",
+    "code": "itp",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/x2ps.svg?1750046400"
+  },
+  {
+    "name": "Multiverse Gift Box",
+    "code": "mgb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/vis.svg?1750046400"
+  },
+  {
+    "name": "Mirage",
+    "code": "mir",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/mir.svg?1750046400"
+  },
+  {
+    "name": "Redemption Program",
+    "code": "pred",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Celebration Cards",
+    "code": "pcel",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Arena League 1996",
+    "code": "parl",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/parl.svg?1750046400"
+  },
+  {
+    "name": "DCI Legend Membership",
+    "code": "plgm",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Rivals Quick Start Set",
+    "code": "rqs",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Alliances",
+    "code": "all",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/all.svg?1750046400"
+  },
+  {
+    "name": "Pro Tour Collector Set",
+    "code": "ptc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/default.svg?1750046400"
+  },
+  {
+    "name": "Oversized 90's Promos",
+    "code": "o90p",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/star.svg?1750046400"
+  },
+  {
+    "name": "Homelands",
+    "code": "hml",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/hml.svg?1750046400"
+  },
+  {
+    "name": "Renaissance",
+    "code": "ren",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ren.svg?1750046400"
+  },
+  {
+    "name": "Rinascimento",
+    "code": "rin",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/rin.svg?1750046400"
+  },
+  {
+    "name": "Chronicles Foreign Black Border",
+    "code": "bchr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/chr.svg?1750046400"
+  },
+  {
+    "name": "Chronicles",
+    "code": "chr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/chr.svg?1750046400"
+  },
+  {
+    "name": "Ice Age",
+    "code": "ice",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ice.svg?1750046400"
+  },
+  {
+    "name": "Fourth Edition Foreign Black Border",
+    "code": "4bb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1750046400"
+  },
+  {
+    "name": "Fourth Edition",
+    "code": "4ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/4ed.svg?1750046400"
+  },
+  {
+    "name": "Media and Collaboration Promos",
+    "code": "pmei",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pmei.svg?1750046400"
+  },
+  {
+    "name": "Fallen Empires",
+    "code": "fem",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/fem.svg?1750046400"
+  },
+  {
+    "name": "HarperPrism Book Promos",
+    "code": "phpr",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pbook.svg?1750046400"
+  },
+  {
+    "name": "The Dark",
+    "code": "drk",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/drk.svg?1750046400"
+  },
+  {
+    "name": "Dragon Con",
+    "code": "pdrc",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/pdrc.svg?1750046400"
+  },
+  {
+    "name": "Summer Magic / Edgar",
+    "code": "sum",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/psum.svg?1750046400"
+  },
+  {
+    "name": "Legends",
+    "code": "leg",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/leg.svg?1750046400"
+  },
+  {
+    "name": "Revised Edition",
+    "code": "3ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1750046400"
+  },
+  {
+    "name": "Foreign Black Border",
+    "code": "fbb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/3ed.svg?1750046400"
+  },
+  {
+    "name": "Antiquities",
+    "code": "atq",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/atq.svg?1750046400"
+  },
+  {
+    "name": "Arabian Nights",
+    "code": "arn",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/arn.svg?1750046400"
+  },
+  {
+    "name": "Intl. Collectors' Edition",
+    "code": "cei",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/cei.svg?1750046400"
+  },
+  {
+    "name": "Collectors' Edition",
+    "code": "ced",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/ced.svg?1750046400"
+  },
+  {
+    "name": "Unlimited Edition",
+    "code": "2ed",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/2ed.svg?1750046400"
+  },
+  {
+    "name": "Limited Edition Beta",
+    "code": "leb",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/leb.svg?1750046400"
+  },
+  {
+    "name": "Limited Edition Alpha",
+    "code": "lea",
+    "icon_svg_uri": "https://svgs.scryfall.io/sets/lea.svg?1750046400"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "symbol": "{T}",
+    "safe_symbol": "T",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/T.svg"
+  },
+  {
+    "symbol": "{Q}",
+    "safe_symbol": "Q",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/Q.svg"
+  },
+  {
+    "symbol": "{E}",
+    "safe_symbol": "E",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/E.svg"
+  },
+  {
+    "symbol": "{P}",
+    "safe_symbol": "P",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/P.svg"
+  },
+  {
+    "symbol": "{PW}",
+    "safe_symbol": "PW",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/PW.svg"
+  },
+  {
+    "symbol": "{CHAOS}",
+    "safe_symbol": "CHAOS",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CHAOS.svg"
+  },
+  {
+    "symbol": "{A}",
+    "safe_symbol": "A",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/A.svg"
+  },
+  {
+    "symbol": "{TK}",
+    "safe_symbol": "TK",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/TK.svg"
+  },
+  {
+    "symbol": "{X}",
+    "safe_symbol": "X",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/X.svg"
+  },
+  {
+    "symbol": "{Y}",
+    "safe_symbol": "Y",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/Y.svg"
+  },
+  {
+    "symbol": "{Z}",
+    "safe_symbol": "Z",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/Z.svg"
+  },
+  {
+    "symbol": "{0}",
+    "safe_symbol": "0",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/0.svg"
+  },
+  {
+    "symbol": "{½}",
+    "safe_symbol": "HALF",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/HALF.svg"
+  },
+  {
+    "symbol": "{1}",
+    "safe_symbol": "1",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/1.svg"
+  },
+  {
+    "symbol": "{2}",
+    "safe_symbol": "2",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2.svg"
+  },
+  {
+    "symbol": "{3}",
+    "safe_symbol": "3",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/3.svg"
+  },
+  {
+    "symbol": "{4}",
+    "safe_symbol": "4",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/4.svg"
+  },
+  {
+    "symbol": "{5}",
+    "safe_symbol": "5",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/5.svg"
+  },
+  {
+    "symbol": "{6}",
+    "safe_symbol": "6",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/6.svg"
+  },
+  {
+    "symbol": "{7}",
+    "safe_symbol": "7",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/7.svg"
+  },
+  {
+    "symbol": "{8}",
+    "safe_symbol": "8",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/8.svg"
+  },
+  {
+    "symbol": "{9}",
+    "safe_symbol": "9",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/9.svg"
+  },
+  {
+    "symbol": "{10}",
+    "safe_symbol": "10",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/10.svg"
+  },
+  {
+    "symbol": "{11}",
+    "safe_symbol": "11",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/11.svg"
+  },
+  {
+    "symbol": "{12}",
+    "safe_symbol": "12",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/12.svg"
+  },
+  {
+    "symbol": "{13}",
+    "safe_symbol": "13",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/13.svg"
+  },
+  {
+    "symbol": "{14}",
+    "safe_symbol": "14",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/14.svg"
+  },
+  {
+    "symbol": "{15}",
+    "safe_symbol": "15",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/15.svg"
+  },
+  {
+    "symbol": "{16}",
+    "safe_symbol": "16",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/16.svg"
+  },
+  {
+    "symbol": "{17}",
+    "safe_symbol": "17",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/17.svg"
+  },
+  {
+    "symbol": "{18}",
+    "safe_symbol": "18",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/18.svg"
+  },
+  {
+    "symbol": "{19}",
+    "safe_symbol": "19",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/19.svg"
+  },
+  {
+    "symbol": "{20}",
+    "safe_symbol": "20",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/20.svg"
+  },
+  {
+    "symbol": "{100}",
+    "safe_symbol": "100",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/100.svg"
+  },
+  {
+    "symbol": "{1000000}",
+    "safe_symbol": "1000000",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/1000000.svg"
+  },
+  {
+    "symbol": "{∞}",
+    "safe_symbol": "INFINITY",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/INFINITY.svg"
+  },
+  {
+    "symbol": "{W/U}",
+    "safe_symbol": "WU",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/WU.svg"
+  },
+  {
+    "symbol": "{W/B}",
+    "safe_symbol": "WB",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/WB.svg"
+  },
+  {
+    "symbol": "{B/R}",
+    "safe_symbol": "BR",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/BR.svg"
+  },
+  {
+    "symbol": "{B/G}",
+    "safe_symbol": "BG",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/BG.svg"
+  },
+  {
+    "symbol": "{U/B}",
+    "safe_symbol": "UB",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/UB.svg"
+  },
+  {
+    "symbol": "{U/R}",
+    "safe_symbol": "UR",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/UR.svg"
+  },
+  {
+    "symbol": "{R/G}",
+    "safe_symbol": "RG",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/RG.svg"
+  },
+  {
+    "symbol": "{R/W}",
+    "safe_symbol": "RW",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/RW.svg"
+  },
+  {
+    "symbol": "{G/W}",
+    "safe_symbol": "GW",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/GW.svg"
+  },
+  {
+    "symbol": "{G/U}",
+    "safe_symbol": "GU",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/GU.svg"
+  },
+  {
+    "symbol": "{B/G/P}",
+    "safe_symbol": "BGP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/BGP.svg"
+  },
+  {
+    "symbol": "{B/R/P}",
+    "safe_symbol": "BRP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/BRP.svg"
+  },
+  {
+    "symbol": "{G/U/P}",
+    "safe_symbol": "GUP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/GUP.svg"
+  },
+  {
+    "symbol": "{G/W/P}",
+    "safe_symbol": "GWP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/GWP.svg"
+  },
+  {
+    "symbol": "{R/G/P}",
+    "safe_symbol": "RGP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/RGP.svg"
+  },
+  {
+    "symbol": "{R/W/P}",
+    "safe_symbol": "RWP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/RWP.svg"
+  },
+  {
+    "symbol": "{U/B/P}",
+    "safe_symbol": "UBP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/UBP.svg"
+  },
+  {
+    "symbol": "{U/R/P}",
+    "safe_symbol": "URP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/URP.svg"
+  },
+  {
+    "symbol": "{W/B/P}",
+    "safe_symbol": "WBP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/WBP.svg"
+  },
+  {
+    "symbol": "{W/U/P}",
+    "safe_symbol": "WUP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/WUP.svg"
+  },
+  {
+    "symbol": "{C/W}",
+    "safe_symbol": "CW",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CW.svg"
+  },
+  {
+    "symbol": "{C/U}",
+    "safe_symbol": "CU",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CU.svg"
+  },
+  {
+    "symbol": "{C/B}",
+    "safe_symbol": "CB",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CB.svg"
+  },
+  {
+    "symbol": "{C/R}",
+    "safe_symbol": "CR",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CR.svg"
+  },
+  {
+    "symbol": "{C/G}",
+    "safe_symbol": "CG",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CG.svg"
+  },
+  {
+    "symbol": "{2/W}",
+    "safe_symbol": "2W",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2W.svg"
+  },
+  {
+    "symbol": "{2/U}",
+    "safe_symbol": "2U",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2U.svg"
+  },
+  {
+    "symbol": "{2/B}",
+    "safe_symbol": "2B",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2B.svg"
+  },
+  {
+    "symbol": "{2/R}",
+    "safe_symbol": "2R",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2R.svg"
+  },
+  {
+    "symbol": "{2/G}",
+    "safe_symbol": "2G",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/2G.svg"
+  },
+  {
+    "symbol": "{H}",
+    "safe_symbol": "H",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/H.svg"
+  },
+  {
+    "symbol": "{W/P}",
+    "safe_symbol": "WP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/WP.svg"
+  },
+  {
+    "symbol": "{U/P}",
+    "safe_symbol": "UP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/UP.svg"
+  },
+  {
+    "symbol": "{B/P}",
+    "safe_symbol": "BP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/BP.svg"
+  },
+  {
+    "symbol": "{R/P}",
+    "safe_symbol": "RP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/RP.svg"
+  },
+  {
+    "symbol": "{G/P}",
+    "safe_symbol": "GP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/GP.svg"
+  },
+  {
+    "symbol": "{C/P}",
+    "safe_symbol": "CP",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/CP.svg"
+  },
+  {
+    "symbol": "{HW}",
+    "safe_symbol": "HW",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/HW.svg"
+  },
+  {
+    "symbol": "{HR}",
+    "safe_symbol": "HR",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/HR.svg"
+  },
+  {
+    "symbol": "{W}",
+    "safe_symbol": "W",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/W.svg"
+  },
+  {
+    "symbol": "{U}",
+    "safe_symbol": "U",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/U.svg"
+  },
+  {
+    "symbol": "{B}",
+    "safe_symbol": "B",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/B.svg"
+  },
+  {
+    "symbol": "{R}",
+    "safe_symbol": "R",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/R.svg"
+  },
+  {
+    "symbol": "{G}",
+    "safe_symbol": "G",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/G.svg"
+  },
+  {
+    "symbol": "{C}",
+    "safe_symbol": "C",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/C.svg"
+  },
+  {
+    "symbol": "{S}",
+    "safe_symbol": "S",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/S.svg"
+  },
+  {
+    "symbol": "{L}",
+    "safe_symbol": "L",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/L.svg"
+  },
+  {
+    "symbol": "{D}",
+    "safe_symbol": "D",
+    "svg_uri": "https://svgs.scryfall.io/card-symbols/D.svg"
+  }
+]
