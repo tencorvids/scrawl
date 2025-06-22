@@ -3,6 +3,9 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {},
+    "dependencies": {
+        "fantasticon": "^3.0.0"
+    },
     "devDependencies": {
         "@types/node": "^24.0.3",
         "tsx": "^4.20.3",
