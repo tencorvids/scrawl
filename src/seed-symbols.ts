@@ -22,8 +22,8 @@ async function fetchSymbols() {
     }
 
     const symbols = data.data.map((symbol: ScryfallSymbol) => ({
-        symbol: symbol.symbol,
-        safe_symbol: symbol.svg_uri.split("/").pop()?.replace(".svg", ""),
+        symbol: symbol.symbol.toLowerCase(),
+        safe_symbol: symbol.svg_uri.split("/").pop()?.replace(".svg", "").toLowerCase(),
         svg_uri: symbol.svg_uri,
     }));
 
@@ -41,13 +41,10 @@ async function main() {
     fs.writeFileSync(path.join(process.cwd(), "icons", "symbols.json"), JSON.stringify(symbols, null, 2));
 
     for (const symbol of symbols) {
-        const urlParts = symbol.svg_uri.split("/");
-        const symbolName = urlParts[urlParts.length - 1];
-
         const response = await fetch(symbol.svg_uri);
         const svg = await response.text();
-        fs.writeFileSync(path.join(symbolsDir, symbolName), svg);
-        console.log(`Saved ${symbolName}`);
+        fs.writeFileSync(path.join(symbolsDir, symbol.safe_symbol), svg);
+        console.log(`Saved ${symbol.safe_symbol}`);
 
         // good citizen
         await new Promise(resolve => setTimeout(resolve, 100));

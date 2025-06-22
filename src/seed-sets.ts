@@ -24,7 +24,7 @@ async function fetchSets() {
 
     const sets = data.data.map((set: ScryfallSet) => ({
         name: set.name,
-        code: set.code,
+        code: set.code.toLowerCase(),
         icon_svg_uri: set.icon_svg_uri,
     }));
 
